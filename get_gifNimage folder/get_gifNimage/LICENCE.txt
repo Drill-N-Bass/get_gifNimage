@@ -1,0 +1,5 @@
+# The code below was written by Paweł Pedryc.
+# For non-commercial use only. If you need it for anything commercial, please contact me first. 
+# If you want to know more,
+# or want to ask about anything please write at pawel.pedryc@gmail.com
+# The discussion abot this code is happening here: https://community.dataquest.io/t/i-want-to-introduce-get-gif-n-image-function/552353
