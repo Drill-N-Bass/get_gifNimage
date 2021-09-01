@@ -1,0 +1,5 @@
+wget
+svglib
+reportlab
+IPython
+requests
